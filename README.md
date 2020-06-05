@@ -238,6 +238,7 @@ I am going to go with mobilenet, using the following checkpoint and configuratio
     (note:Please make necessary configuration where the input image directory and where the output image directory )
     
 •	This will Draw a bounding box around the image it got detected.
+
 •	We can also detect from  live streaming video just by using necessary packages from opencv.
 
     
