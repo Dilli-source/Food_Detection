@@ -230,6 +230,15 @@ I am going to go with mobilenet, using the following checkpoint and configuratio
 
 •	This will create a .pb file (i.e a frozen model)
 
+# Detect custom objects in real time!:
+
+•	Run python3 object_detction.py and start detecting the images
+    
+    (note:Please make necessary configuration where the input image directory and where the output image directory )
+    
+•	This will Draw a bounding box around the image it got detected.
+•	We can also detect from  live streaming video just by using necessary packages from opencv.
+
     
    
     
