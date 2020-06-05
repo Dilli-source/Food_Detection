@@ -1,0 +1,26 @@
+<annotation>
+	<folder>french fries</folder>
+	<filename>25_frenchfries.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/french fries/25_frenchfries.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frenchfries</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>19</ymin>
+			<xmax>113</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

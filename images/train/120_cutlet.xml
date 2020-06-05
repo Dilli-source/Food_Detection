@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cutlet</folder>
+	<filename>120_cutlet.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/cutlet/120_cutlet.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cutlet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>7</ymin>
+			<xmax>102</xmax>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+</annotation>

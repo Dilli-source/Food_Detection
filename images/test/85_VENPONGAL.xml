@@ -1,0 +1,26 @@
+<annotation>
+	<folder>venpongal</folder>
+	<filename>85_VENPONGAL.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/venpongal/85_VENPONGAL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>venpongal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>64</ymin>
+			<xmax>95</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

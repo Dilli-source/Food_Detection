@@ -1,0 +1,26 @@
+<annotation>
+	<folder>parota</folder>
+	<filename>16_parota.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/parota/16_parota.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parota</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>29</ymin>
+			<xmax>112</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>

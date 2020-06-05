@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vada</folder>
+	<filename>2_wada.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/vada/2_wada.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>26</ymin>
+			<xmax>113</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

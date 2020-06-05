@@ -1,0 +1,26 @@
+<annotation>
+	<folder>briyani</folder>
+	<filename>83_briyani.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/briyani/83_briyani.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>briyani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>58</ymin>
+			<xmax>79</xmax>
+			<ymax>70</ymax>
+		</bndbox>
+	</object>
+</annotation>
