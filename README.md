@@ -28,12 +28,12 @@ Identifying the Food Items using Tensorflow and Opencv
      •	make qt5py3
    note: These are the dependencies needed to run labelimg python file
    
-   Traverse to the folder where the labelimg.py is downloaded(path to the Labellimg.py)and run the following command
+   Traverse to the folder where the labelimg.py is downloaded and run the following command
      
       python3 labelImg.py
       
    The program will open a window similar to the below mention figure:
-   ![alt text](https://github.com/Dilli-source/labelImg/blob/master/demo/window.JPG)
+   ![alt text](https://github.com/Dilli-source/Food_Detection/blob/master/window.JPG)
    
    From here, choose to open dir and pick the directory that you saved all of your images to. Now, you can begin to annotate with the create rectbox button. Draw your box, add the name in, and hit ok. Save, hit next image, and repeat! You can press the w key to draw the box and do ctrl+s to save faster. Not sure if there's a shortcut for the next image.
    
