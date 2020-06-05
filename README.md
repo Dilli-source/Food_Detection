@@ -147,10 +147,31 @@ Identifying the Food Items using Tensorflow and Opencv
 
     python3 setup.py install
    
+   If you face any issues while running this command, then probably you system is not installed with visual studio . Install it and if you find it difficult you can refer the [stack overflow](https://stackoverflow.com/questions/33323172/vcvarsall-bat-needed-for-python-to-compile-missing-from-visual-studio-2015-v-1) page fixing the error.
    
-   
-   
+   Now we can run the generate_tfrecord.py script. We will run it twice, once for the train TFRecord and once for the test TFRecord.
      
+    python3 generate_tfrecord.py --csv_input=data/train_labels.csv --output_path=data/train.record --image_dir=images/
+    python3 generate_tfrecord.py --csv_input=data/test_labels.csv --output_path=data/test.record --image_dir=images/
+    
+   Now, in your data directory, you should have train.record and test.record.
+   Next up, we need to setup a configuration file and then either train a new model.
+   
+   we will train our object detection model to detect our custom object. To do this, we need the Images, matching TFRecords for the training and testing data, and then we need to setup the configuration of the model, then we can train. For us, that means we need to setup a configuration file.
+
+Here, we have two options. We can use a pre-trained model, and then use transfer learning to learn a new object, or we could learn new objects entirely from scratch. The benefit of transfer learning is that training can be much quicker, and the required data that you might need is much less. For this reason, we're going to be doing transfer learning here.
+
+TensorFlow has quite a few pre-trained models with checkpoint files available, along with configuration files. You can do all of this yourself if you like by checking out their configuring jobs documentation. The object API also provides some sample configurations to choose from.
+
+I am going to go with mobilenet, using the following checkpoint and configuration file
+
+
+    
+   
+    
+     
+   
+
      
     
      
