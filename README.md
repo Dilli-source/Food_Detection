@@ -139,7 +139,7 @@ Identifying the Food Items using Tensorflow and Opencv
    
    To manually set the paths, go to Go to System -> Advanced system settings -> Environment Variables -> New, and add a variable with the name PYTHONPATH and these values:
    
-   ![alt text](https://github.com/Dilli-source/Food_Object_detection/blob/master/images/environmental.JPG)
+   ![alt text](https://github.com/Dilli-source/Food_Detection/blob/master/images/environmental.JPG)
    
    Note: You may have to restart your computer/system for this to take effect.
    
