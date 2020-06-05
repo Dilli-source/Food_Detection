@@ -232,8 +232,9 @@ I am going to go with mobilenet, using the following checkpoint and configuratio
 
 # Detect custom objects in real time!:
 
-•	Run python3 object_detction.py and start detecting the images
-    
+•	Run  and start detecting the images
+
+     python3 food-detection.py
     (note:Please make necessary configuration where the input image directory and where the output image directory )
     
 •	This will Draw a bounding box around the image it got detected.
