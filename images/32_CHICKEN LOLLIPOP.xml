@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chicken lollipop</folder>
+	<filename>32_CHICKEN LOLLIPOP.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/chicken lollipop/32_CHICKEN LOLLIPOP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_lollipop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>33</ymin>
+			<xmax>87</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

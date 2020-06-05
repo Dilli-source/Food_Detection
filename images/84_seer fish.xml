@@ -1,0 +1,38 @@
+<annotation>
+	<folder>seer fish</folder>
+	<filename>84_seer fish.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/seer fish/84_seer fish.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seerfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>24</ymin>
+			<xmax>65</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>seerfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>31</ymin>
+			<xmax>120</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>

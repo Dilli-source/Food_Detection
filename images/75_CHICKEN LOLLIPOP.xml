@@ -1,0 +1,62 @@
+<annotation>
+	<folder>chicken lollipop</folder>
+	<filename>75_CHICKEN LOLLIPOP.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/chicken lollipop/75_CHICKEN LOLLIPOP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken_lollipop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>7</ymin>
+			<xmax>46</xmax>
+			<ymax>53</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken_lollipop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>1</ymin>
+			<xmax>83</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken_lollipop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>51</ymin>
+			<xmax>85</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken_lollipop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>39</ymin>
+			<xmax>121</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

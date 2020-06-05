@@ -1,0 +1,26 @@
+<annotation>
+	<folder>idly</folder>
+	<filename>110_Idly.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/idly/110_Idly.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>idly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>45</ymin>
+			<xmax>120</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

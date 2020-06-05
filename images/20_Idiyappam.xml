@@ -1,0 +1,26 @@
+<annotation>
+	<folder>idiyappam</folder>
+	<filename>20_Idiyappam.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/idiyappam/20_Idiyappam.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>idiyappam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>37</ymin>
+			<xmax>94</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>

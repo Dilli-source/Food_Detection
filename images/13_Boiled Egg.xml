@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Boiled Egg</folder>
+	<filename>13_Boiled Egg.jpg</filename>
+	<path>/home/dilli/Downloads/dataset/dataset/Boiled Egg/13_Boiled Egg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>begg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>43</ymin>
+			<xmax>89</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

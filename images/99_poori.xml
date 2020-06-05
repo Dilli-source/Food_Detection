@@ -1,0 +1,26 @@
+<annotation>
+	<folder>poori</folder>
+	<filename>99_poori.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/poori/99_poori.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>poori</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>19</ymin>
+			<xmax>117</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

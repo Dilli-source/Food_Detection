@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dosa</folder>
+	<filename>1_dosa.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/dosa/1_dosa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dosa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>44</ymin>
+			<xmax>114</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

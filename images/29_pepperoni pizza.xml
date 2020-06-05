@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pepperoni pizza</folder>
+	<filename>29_pepperoni pizza.jpg</filename>
+	<path>/home/ubuntu/Desktop/dataset/pepperoni pizza/29_pepperoni pizza.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>128</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepperonipizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>13</ymin>
+			<xmax>106</xmax>
+			<ymax>36</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepperonipizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>47</ymin>
+			<xmax>108</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>
