@@ -165,6 +165,69 @@ TensorFlow has quite a few pre-trained models with checkpoint files available, a
 
 I am going to go with mobilenet, using the following checkpoint and configuration file
 
+    wget https://raw.githubusercontent.com/tensorflow/models/master/object_detection/samples/configs/ssd_mobilenet_v1_pets.config
+    wget http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz
+    
+ You can check out some of the other checkpoint options to start with [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).
+ 
+ Put the config in the training directory, and extract the ssd_mobilenet_v1 in the models/object_detection directory
+ 
+ •	Inside training dir, add object-detection.pbtxt:
+       
+    item {
+     id: 1
+     name: 'name of object to be Identified'
+     }
+ •	Based on number of object keep adding the id in object detection.pbtxt
+
+
+# Training:
+•	within models/object_detection: 
+•	Run the Following Command
+
+    python3 train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/ssd_mobilenet_v1_pets.config
+    
+•	 you should see output like this:
+
+    INFO:tensorflow:global step 11788: loss = 0.6717 (0.398 sec/step)
+    INFO:tensorflow:global step 11789: loss = 0.5310 (0.436 sec/step)
+    INFO:tensorflow:global step 11790: loss = 0.6614 (0.405 sec/step)
+    INFO:tensorflow:global step 11791: loss = 0.7758 (0.460 sec/step)
+    INFO:tensorflow:global step 11792: loss = 0.7164 (0.378 sec/step)
+    INFO:tensorflow:global step 11793: loss = 0.8096 (0.393 sec/step)
+    
+•	Wait until the training is done.
+
+•	Your steps start at 1 and the loss will be much higher. Depending on your GPU and how much training data you have, this process will take varying amounts of time. 
+
+•	 You can check how the model is doing via TensorBoard. Your models/object_detection/training directory will have new event files that can be viewed via TensorBoard.
+
+•	From models/object_detection, via terminal, you start TensorBoard with:
+
+    tensorboard --logdir='training'
+    
+•	This runs on 127.0.0.1:6006 (open in your browser)
+
+•	You may see there should be loss in graph if not try increasing the training samples.
+
+# Export graph from new trained model:
+
+•	To run this, you just need to pass in your checkpoint and your pipeline config, then wherever you want the inference graph to be placed. For example:
+
+    python3 export_inference_graph.py \
+       --input_type image_tensor \
+       --pipeline_config_path training/ssd_mobilenet_v1_pets.config \
+       --trained_checkpoint_prefix training/model.ckpt-100000 \
+       --output_directory food_inference_graph
+       
+•	Take the final steps only if it has all three files in the model after training
+
+•	If you get an error about no module named 'nets', then you need to re run:
+    # From tensorflow/models/
+         export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+    # switch back to object_detection after this and re run the above command
+
+•	This will create a .pb file (i.e a frozen model)
 
     
    
