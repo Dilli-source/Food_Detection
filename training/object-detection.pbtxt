@@ -1,0 +1,73 @@
+item {
+  id :1
+  name: 'boiledegg'
+} 
+item {
+  id :2
+  name: 'venpongal'
+} 
+item {
+  id :3
+  name: 'vada'
+} 
+item {
+  id :4
+  name: 'parota'
+} 
+item {
+  id :5
+  name: 'poha'
+} 
+item {
+  id :6
+  name: 'briyani'
+} 
+item {
+  id :7
+  name: 'chicken_lollipop'
+} 
+item {
+  id :8
+  name: 'cutlet'
+} 
+item {
+  id :9
+  name: 'samosa'
+} 
+item {
+  id :10
+  name: 'idly'
+} 
+item {
+  id :11
+  name: 'idiyappam'
+} 
+item {
+  id :12
+  name: 'dosa'
+} 
+item {
+  id :13
+  name: 'poori'
+} 
+item {
+  id :14
+  name: 'halfboil'
+} 
+item {
+  id :15
+  name: 'bonda'
+} 
+item {
+  id :16
+  name: 'pepperonipizza'
+} 
+item {
+  id :17
+  name: 'seerfish'
+} 
+item {
+  id :18
+  name: 'frenchfries'
+} 
+

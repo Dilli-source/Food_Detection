@@ -1,0 +1,997 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,19,12,52,48
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,52,3,83,51
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,63,2,111,36
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,16,53,59,79
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,15,73,69,117
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,53,80,94,128
+100_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,73,44,111,79
+100_parota.jpg,128,128,parota,10,44,121,102
+100_samosa.jpg,128,128,samosa,33,56,87,102
+100_samosa.jpg,128,128,samosa,87,57,122,102
+100_samosa.jpg,128,128,samosa,105,51,128,89
+100_samosa.jpg,128,128,samosa,99,36,128,57
+100_samosa.jpg,128,128,samosa,74,37,102,65
+100_samosa.jpg,128,128,samosa,29,41,76,76
+100_samosa.jpg,128,128,samosa,39,24,70,53
+100_samosa.jpg,128,128,samosa,67,26,96,50
+100_seer fish.jpg,128,128,seerfish,55,63,86,99
+100_seer fish.jpg,128,128,seerfish,66,53,104,70
+100_seer fish.jpg,128,128,seerfish,54,32,75,58
+100_seer fish.jpg,128,128,seerfish,14,55,59,75
+100_VENPONGAL.jpg,128,128,venpongal,32,3,105,63
+101_Boiled Egg.jpg,128,128,begg,23,43,58,98
+101_Boiled Egg.jpg,128,128,begg,61,28,100,75
+101_Bonda.jpg,128,128,bonda,55,37,75,55
+101_Bonda.jpg,128,128,bonda,53,60,84,86
+101_frenchfries.jpg,128,128,frenchfries,1,23,128,105
+101_wada.jpg,128,128,vada,50,16,82,42
+101_wada.jpg,128,128,vada,77,32,113,60
+101_wada.jpg,128,128,vada,82,56,118,95
+101_wada.jpg,128,128,vada,49,65,93,111
+101_wada.jpg,128,128,vada,7,57,45,94
+101_wada.jpg,128,128,vada,14,27,53,56
+101_wada.jpg,128,128,vada,44,40,82,67
+102_Boiled Egg.jpg,128,128,begg,7,35,51,65
+102_Bonda.jpg,128,128,bonda,63,43,92,73
+102_Bonda.jpg,128,128,bonda,26,56,53,102
+102_frenchfries.jpg,128,128,frenchfries,31,50,91,84
+102_wada.jpg,128,128,vada,34,55,76,87
+102_wada.jpg,128,128,vada,24,31,63,57
+102_wada.jpg,128,128,vada,15,52,42,81
+103_Boiled Egg.jpg,128,128,begg,15,81,63,115
+103_Boiled Egg.jpg,128,128,begg,66,80,105,115
+103_Boiled Egg.jpg,128,128,begg,32,18,74,47
+103_Bonda.jpg,128,128,bonda,36,79,61,108
+103_Bonda.jpg,128,128,bonda,14,29,36,47
+103_Bonda.jpg,128,128,bonda,8,51,33,78
+103_Bonda.jpg,128,128,bonda,48,24,68,43
+103_frenchfries.jpg,128,128,frenchfries,37,64,128,104
+103_Idiyappam.jpg,128,128,idiyappam,21,30,117,93
+103_wada.jpg,128,128,vada,55,50,85,85
+103_wada.jpg,128,128,vada,36,40,62,69
+103_wada.jpg,128,128,vada,23,35,48,64
+103_wada.jpg,128,128,vada,8,26,34,52
+104_Boiled Egg.jpg,128,128,begg,35,28,112,80
+104_Bonda.jpg,128,128,bonda,17,67,48,91
+104_Bonda.jpg,128,128,bonda,63,49,89,73
+104_Bonda.jpg,128,128,bonda,25,29,51,53
+104_frenchfries.jpg,128,128,frenchfries,44,2,110,58
+104_Idiyappam.jpg,128,128,idiyappam,33,22,82,63
+104_Idiyappam.jpg,128,128,idiyappam,27,57,71,98
+104_Idiyappam.jpg,128,128,idiyappam,74,47,110,90
+104_wada.jpg,128,128,vada,48,80,82,122
+104_wada.jpg,128,128,vada,45,42,79,79
+104_wada.jpg,128,128,vada,68,54,96,84
+104_wada.jpg,128,128,vada,21,61,53,90
+105_Boiled Egg.jpg,128,128,begg,26,57,80,101
+105_Boiled Egg.jpg,128,128,begg,43,29,80,55
+105_Bonda.jpg,128,128,bonda,7,67,33,88
+105_Bonda.jpg,128,128,bonda,54,50,81,72
+105_Bonda.jpg,128,128,bonda,62,89,88,112
+105_Bonda.jpg,128,128,bonda,40,74,53,112
+105_Bonda.jpg,128,128,bonda,23,43,45,63
+105_frenchfries.jpg,128,128,frenchfries,31,58,117,102
+105_Idiyappam.jpg,128,128,idiyappam,48,24,77,56
+105_Idiyappam.jpg,128,128,idiyappam,65,54,99,77
+105_Idiyappam.jpg,128,128,idiyappam,79,74,117,98
+105_Idiyappam.jpg,128,128,idiyappam,20,81,53,106
+105_wada.jpg,128,128,vada,11,35,58,66
+105_wada.jpg,128,128,vada,28,59,71,93
+105_wada.jpg,128,128,vada,9,62,34,93
+106_Boiled Egg.jpg,128,128,begg,57,54,102,95
+106_Boiled Egg.jpg,128,128,begg,16,22,55,59
+106_Bonda.jpg,128,128,bonda,47,60,82,101
+106_Bonda.jpg,128,128,bonda,46,28,81,56
+106_Bonda.jpg,128,128,bonda,85,52,124,89
+106_frenchfries.jpg,128,128,frenchfries,34,21,128,79
+106_Idiyappam.jpg,128,128,idiyappam,2,70,36,94
+106_Idiyappam.jpg,128,128,idiyappam,37,67,71,93
+106_wada.jpg,128,128,vada,55,46,97,82
+106_wada.jpg,128,128,vada,33,26,61,59
+106_wada.jpg,128,128,vada,62,24,91,53
+107_Boiled Egg.jpg,128,128,begg,19,33,60,83
+107_Boiled Egg.jpg,128,128,begg,64,39,110,92
+107_Bonda.jpg,128,128,bonda,24,57,68,102
+107_Bonda.jpg,128,128,bonda,71,58,106,94
+107_Bonda.jpg,128,128,bonda,60,24,97,53
+107_frenchfries.jpg,128,128,frenchfries,21,32,106,90
+107_Idiyappam.jpg,128,128,idiyappam,7,36,92,93
+107_wada.jpg,128,128,vada,66,48,91,72
+107_wada.jpg,128,128,vada,91,38,112,65
+107_wada.jpg,128,128,vada,77,61,100,83
+107_wada.jpg,128,128,vada,92,67,111,88
+107_wada.jpg,128,128,vada,59,77,84,96
+107_wada.jpg,128,128,vada,51,54,74,76
+107_wada.jpg,128,128,vada,48,35,71,57
+107_wada.jpg,128,128,vada,71,29,94,51
+108_Boiled Egg.jpg,128,128,begg,38,24,82,66
+108_Boiled Egg.jpg,128,128,begg,21,68,51,99
+108_Bonda.jpg,128,128,bonda,39,31,84,80
+108_frenchfries.jpg,128,128,frenchfries,6,34,128,86
+108_Idiyappam.jpg,128,128,idiyappam,18,18,125,86
+108_wada.jpg,128,128,vada,75,28,118,65
+108_wada.jpg,128,128,vada,40,22,78,57
+108_wada.jpg,128,128,vada,10,35,47,69
+109_Boiled Egg.jpg,128,128,begg,48,50,109,86
+109_Bonda.jpg,128,128,bonda,34,51,59,78
+109_Bonda.jpg,128,128,bonda,83,57,105,83
+109_Bonda.jpg,128,128,bonda,40,27,62,48
+109_Bonda.jpg,128,128,bonda,58,82,81,106
+109_Bonda.jpg,128,128,bonda,65,34,85,54
+109_frenchfries.jpg,128,128,frenchfries,4,23,121,91
+109_Idiyappam.jpg,128,128,idiyappam,1,24,93,108
+109_wada.jpg,128,128,vada,72,68,104,92
+109_wada.jpg,128,128,vada,43,62,72,88
+109_wada.jpg,128,128,vada,50,88,87,111
+110_Boiled Egg.jpg,128,128,begg,25,41,50,64
+110_Boiled Egg.jpg,128,128,begg,34,71,60,100
+110_Boiled Egg.jpg,128,128,begg,66,31,91,56
+110_Bonda.jpg,128,128,bonda,99,41,117,58
+110_Bonda.jpg,128,128,bonda,62,52,76,70
+110_Bonda.jpg,128,128,bonda,104,75,125,97
+110_Bonda.jpg,128,128,bonda,63,91,89,109
+110_Bonda.jpg,128,128,bonda,39,60,58,77
+110_Bonda.jpg,128,128,bonda,80,65,101,87
+110_Bonda.jpg,128,128,bonda,46,81,61,99
+110_frenchfries.jpg,128,128,frenchfries,16,9,112,124
+110_Idiyappam.jpg,128,128,idiyappam,2,60,33,84
+110_Idiyappam.jpg,128,128,idiyappam,27,66,55,89
+110_Idiyappam.jpg,128,128,idiyappam,52,72,86,99
+110_Idiyappam.jpg,128,128,idiyappam,80,82,111,109
+110_Idiyappam.jpg,128,128,idiyappam,20,45,47,65
+110_Idiyappam.jpg,128,128,idiyappam,38,48,82,74
+110_Idiyappam.jpg,128,128,idiyappam,82,54,115,80
+110_Idiyappam.jpg,128,128,idiyappam,106,68,128,96
+110_wada.jpg,128,128,vada,75,38,116,76
+110_wada.jpg,128,128,vada,73,21,113,43
+110_wada.jpg,128,128,vada,40,23,76,66
+111_Bonda.jpg,128,128,bonda,80,23,102,48
+111_Bonda.jpg,128,128,bonda,53,32,78,60
+111_Bonda.jpg,128,128,bonda,13,69,54,99
+111_Idiyappam.jpg,128,128,idiyappam,35,66,89,109
+111_Idiyappam.jpg,128,128,idiyappam,84,49,120,91
+111_Idiyappam.jpg,128,128,idiyappam,63,15,115,48
+111_Idiyappam.jpg,128,128,idiyappam,1,46,41,85
+111_Idiyappam.jpg,128,128,idiyappam,14,17,50,46
+111_pepperoni pizza.jpg,128,128,pepperonipizza,13,26,114,95
+111_wada.jpg,128,128,vada,74,19,128,74
+111_wada.jpg,128,128,vada,4,41,82,100
+112_Bonda.jpg,128,128,bonda,43,15,82,47
+112_Bonda.jpg,128,128,bonda,66,51,119,99
+112_Bonda.jpg,128,128,bonda,4,50,63,108
+112_Idiyappam.jpg,128,128,idiyappam,36,65,87,108
+112_Idiyappam.jpg,128,128,idiyappam,5,49,40,85
+112_Idiyappam.jpg,128,128,idiyappam,29,28,64,65
+112_pepperoni pizza.jpg,128,128,pepperonipizza,7,48,121,84
+112_wada.jpg,128,128,vada,49,59,86,88
+112_wada.jpg,128,128,vada,46,50,90,70
+113_Bonda.jpg,128,128,bonda,69,45,104,72
+113_Bonda.jpg,128,128,bonda,32,44,61,73
+113_Bonda.jpg,128,128,bonda,54,77,92,102
+113_Idiyappam.jpg,128,128,idiyappam,58,65,91,96
+113_Idiyappam.jpg,128,128,idiyappam,89,48,121,81
+113_Idiyappam.jpg,128,128,idiyappam,22,53,57,90
+113_Idiyappam.jpg,128,128,idiyappam,39,33,65,60
+113_Idiyappam.jpg,128,128,idiyappam,63,32,96,63
+113_pepperoni pizza.jpg,128,128,pepperonipizza,1,21,109,100
+113_wada.jpg,128,128,vada,42,55,96,93
+113_wada.jpg,128,128,vada,78,39,122,71
+114_Bonda.jpg,128,128,bonda,70,11,100,46
+114_Bonda.jpg,128,128,bonda,35,69,70,98
+114_Bonda.jpg,128,128,bonda,73,52,105,84
+114_Bonda.jpg,128,128,bonda,39,26,67,67
+114_Idiyappam.jpg,128,128,idiyappam,37,22,116,90
+114_Idiyappam.jpg,128,128,idiyappam,5,31,69,97
+114_pepperoni pizza.jpg,128,128,pepperonipizza,1,20,128,104
+114_wada.jpg,128,128,vada,61,44,97,85
+114_wada.jpg,128,128,vada,53,85,92,120
+114_wada.jpg,128,128,vada,24,66,54,111
+114_wada.jpg,128,128,vada,28,29,60,64
+115_Bonda.jpg,128,128,bonda,59,43,93,72
+115_Bonda.jpg,128,128,bonda,31,62,56,92
+115_Bonda.jpg,128,128,bonda,97,56,122,87
+115_Bonda.jpg,128,128,bonda,58,77,93,106
+115_pepperoni pizza.jpg,128,128,pepperonipizza,6,27,84,97
+115_wada.jpg,128,128,vada,66,52,92,70
+115_wada.jpg,128,128,vada,73,70,100,90
+115_wada.jpg,128,128,vada,42,71,72,96
+115_wada.jpg,128,128,vada,40,53,66,73
+116_Bonda.jpg,128,128,bonda,6,28,36,60
+116_Bonda.jpg,128,128,bonda,27,66,52,93
+116_Bonda.jpg,128,128,bonda,59,53,87,81
+116_Bonda.jpg,128,128,bonda,102,57,128,85
+116_Bonda.jpg,128,128,bonda,65,85,86,107
+116_Idiyappam.jpg,128,128,idiyappam,32,46,71,78
+116_Idiyappam.jpg,128,128,idiyappam,68,33,113,72
+116_Idiyappam.jpg,128,128,idiyappam,23,20,70,50
+116_pepperoni pizza.jpg,128,128,pepperonipizza,73,38,122,86
+116_wada.jpg,128,128,vada,10,47,48,85
+116_wada.jpg,128,128,vada,78,23,97,46
+116_wada.jpg,128,128,vada,58,22,80,50
+117_Bonda.jpg,128,128,bonda,13,43,40,76
+117_Bonda.jpg,128,128,bonda,65,72,96,99
+117_Bonda.jpg,128,128,bonda,64,19,96,44
+117_Bonda.jpg,128,128,bonda,53,48,84,70
+117_Idiyappam.jpg,128,128,idiyappam,59,47,109,84
+117_Idiyappam.jpg,128,128,idiyappam,89,30,127,63
+117_Idiyappam.jpg,128,128,idiyappam,17,36,61,69
+117_Idiyappam.jpg,128,128,idiyappam,51,26,99,47
+117_pepperoni pizza.jpg,128,128,pepperonipizza,16,29,128,105
+117_wada.jpg,128,128,vada,19,48,67,103
+117_wada.jpg,128,128,vada,77,49,126,98
+117_wada.jpg,128,128,vada,16,17,59,48
+117_wada.jpg,128,128,vada,57,20,95,59
+117_wada.jpg,128,128,vada,93,25,120,57
+118_Bonda.jpg,128,128,bonda,38,17,61,41
+118_Bonda.jpg,128,128,bonda,20,57,50,79
+118_Bonda.jpg,128,128,bonda,76,85,105,109
+118_Bonda.jpg,128,128,bonda,97,56,125,84
+118_Bonda.jpg,128,128,bonda,17,35,45,60
+118_Bonda.jpg,128,128,bonda,32,77,75,111
+118_Idiyappam.jpg,128,128,idiyappam,14,66,57,102
+118_Idiyappam.jpg,128,128,idiyappam,50,85,91,120
+118_Idiyappam.jpg,128,128,idiyappam,87,48,115,86
+118_Idiyappam.jpg,128,128,idiyappam,16,1,50,40
+118_pepperoni pizza.jpg,128,128,pepperonipizza,1,24,76,105
+118_wada.jpg,128,128,vada,93,34,128,82
+118_wada.jpg,128,128,vada,56,52,103,103
+118_wada.jpg,128,128,vada,3,49,61,107
+119_Bonda.jpg,128,128,bonda,4,61,57,107
+119_Bonda.jpg,128,128,bonda,47,70,103,107
+119_Bonda.jpg,128,128,bonda,50,44,94,76
+119_Idiyappam.jpg,128,128,idiyappam,19,52,74,98
+119_Idiyappam.jpg,128,128,idiyappam,48,26,110,74
+119_pepperoni pizza.jpg,128,128,pepperonipizza,1,29,128,98
+119_wada.jpg,128,128,vada,65,36,99,64
+119_wada.jpg,128,128,vada,94,35,121,69
+119_wada.jpg,128,128,vada,56,23,95,49
+119_wada.jpg,128,128,vada,33,48,69,87
+119_wada.jpg,128,128,vada,68,61,114,99
+120_Bonda.jpg,128,128,bonda,10,16,21,27
+120_Bonda.jpg,128,128,bonda,28,12,40,26
+120_Bonda.jpg,128,128,bonda,41,13,54,26
+120_Bonda.jpg,128,128,bonda,55,12,64,27
+120_Bonda.jpg,128,128,bonda,66,13,75,27
+120_Bonda.jpg,128,128,bonda,76,14,86,28
+120_Bonda.jpg,128,128,bonda,1,26,13,38
+120_Bonda.jpg,128,128,bonda,15,37,29,52
+120_Bonda.jpg,128,128,bonda,37,33,50,48
+120_Bonda.jpg,128,128,bonda,53,37,64,51
+120_Bonda.jpg,128,128,bonda,16,62,28,78
+120_Bonda.jpg,128,128,bonda,2,59,14,74
+120_Bonda.jpg,128,128,bonda,41,54,56,68
+120_Bonda.jpg,128,128,bonda,72,37,84,52
+120_Bonda.jpg,128,128,bonda,37,78,51,91
+120_Bonda.jpg,128,128,bonda,65,63,78,76
+120_Bonda.jpg,128,128,bonda,56,54,68,69
+120_Bonda.jpg,128,128,bonda,7,50,22,64
+120_Bonda.jpg,128,128,bonda,3,84,16,100
+120_Bonda.jpg,128,128,bonda,14,82,28,92
+120_Bonda.jpg,128,128,bonda,26,96,38,110
+120_Bonda.jpg,128,128,bonda,9,96,24,110
+120_Bonda.jpg,128,128,bonda,24,73,38,86
+120_Bonda.jpg,128,128,bonda,48,70,61,86
+120_Bonda.jpg,128,128,bonda,27,54,41,69
+120_Bonda.jpg,128,128,bonda,75,59,88,72
+120_Bonda.jpg,128,128,bonda,68,49,82,63
+120_Idiyappam.jpg,128,128,idiyappam,45,65,81,96
+120_Idiyappam.jpg,128,128,idiyappam,77,47,115,75
+120_Idiyappam.jpg,128,128,idiyappam,51,29,89,53
+120_Idiyappam.jpg,128,128,idiyappam,15,45,56,69
+120_pepperoni pizza.jpg,128,128,pepperonipizza,6,25,116,95
+120_wada.jpg,128,128,vada,66,82,93,110
+120_wada.jpg,128,128,vada,70,59,92,83
+120_wada.jpg,128,128,vada,53,45,72,66
+120_wada.jpg,128,128,vada,47,66,67,91
+120_wada.jpg,128,128,vada,29,46,52,65
+121_Bonda.jpg,128,128,bonda,49,63,80,99
+121_Bonda.jpg,128,128,bonda,81,51,109,82
+121_Bonda.jpg,128,128,bonda,19,50,46,78
+121_Bonda.jpg,128,128,bonda,30,25,54,47
+121_Bonda.jpg,128,128,bonda,55,16,80,39
+121_Bonda.jpg,128,128,bonda,80,25,111,52
+121_cutlet.jpg,128,128,cutlet,1,18,105,80
+121_Idiyappam.jpg,128,128,idiyappam,41,76,81,115
+121_Idiyappam.jpg,128,128,idiyappam,80,61,119,99
+121_Idiyappam.jpg,128,128,idiyappam,78,21,120,60
+121_Idiyappam.jpg,128,128,idiyappam,43,14,80,44
+121_Idiyappam.jpg,128,128,idiyappam,8,25,48,62
+121_Idiyappam.jpg,128,128,idiyappam,2,57,44,90
+121_Idiyappam.jpg,128,128,idiyappam,44,42,83,79
+121_pepperoni pizza.jpg,128,128,pepperonipizza,11,23,119,108
+122_Bonda.jpg,128,128,bonda,24,64,39,83
+122_Bonda.jpg,128,128,bonda,38,68,60,91
+122_Bonda.jpg,128,128,bonda,57,84,84,104
+122_Bonda.jpg,128,128,bonda,46,61,68,72
+122_Bonda.jpg,128,128,bonda,60,67,78,82
+122_Bonda.jpg,128,128,bonda,76,75,92,94
+122_Bonda.jpg,128,128,bonda,78,57,100,79
+122_cutlet.jpg,128,128,cutlet,2,39,50,94
+122_cutlet.jpg,128,128,cutlet,18,23,93,75
+122_Idiyappam.jpg,128,128,idiyappam,53,22,126,105
+122_pepperoni pizza.jpg,128,128,pepperonipizza,17,23,119,101
+123_Bonda.jpg,128,128,bonda,2,87,31,109
+123_Bonda.jpg,128,128,bonda,18,59,47,89
+123_Bonda.jpg,128,128,bonda,19,34,43,59
+123_Bonda.jpg,128,128,bonda,62,36,91,64
+123_Bonda.jpg,128,128,bonda,49,19,71,44
+123_Bonda.jpg,128,128,bonda,94,35,116,58
+123_Bonda.jpg,128,128,bonda,66,80,94,104
+123_Bonda.jpg,128,128,bonda,99,88,125,109
+123_cutlet.jpg,128,128,cutlet,51,43,102,65
+123_cutlet.jpg,128,128,cutlet,6,42,44,59
+123_Idiyappam.jpg,128,128,idiyappam,30,41,99,103
+123_pepperoni pizza.jpg,128,128,pepperonipizza,5,34,126,91
+124_Bonda.jpg,128,128,bonda,15,71,51,104
+124_Bonda.jpg,128,128,bonda,54,61,85,93
+124_Bonda.jpg,128,128,bonda,17,32,51,57
+124_Bonda.jpg,128,128,bonda,22,52,52,72
+124_Bonda.jpg,128,128,bonda,50,42,89,69
+124_cutlet.jpg,128,128,cutlet,41,17,119,67
+124_cutlet.jpg,128,128,cutlet,6,40,78,92
+124_Idiyappam.jpg,128,128,idiyappam,46,69,85,98
+124_Idiyappam.jpg,128,128,idiyappam,81,54,123,75
+124_Idiyappam.jpg,128,128,idiyappam,74,31,104,52
+124_Idiyappam.jpg,128,128,idiyappam,42,46,80,70
+124_Idiyappam.jpg,128,128,idiyappam,1,59,40,89
+124_Idiyappam.jpg,128,128,idiyappam,1,36,39,62
+124_Idiyappam.jpg,128,128,idiyappam,37,23,72,48
+124_pepperoni pizza.jpg,128,128,pepperonipizza,20,22,106,104
+125_Bonda.jpg,128,128,bonda,12,62,50,93
+125_Bonda.jpg,128,128,bonda,49,70,83,101
+125_Bonda.jpg,128,128,bonda,83,52,119,87
+125_Bonda.jpg,128,128,bonda,6,33,42,62
+125_Bonda.jpg,128,128,bonda,45,27,77,53
+125_Bonda.jpg,128,128,bonda,47,51,83,74
+125_cutlet.jpg,128,128,cutlet,29,57,127,102
+125_Idiyappam.jpg,128,128,idiyappam,43,67,74,89
+125_Idiyappam.jpg,128,128,idiyappam,74,63,104,84
+125_Idiyappam.jpg,128,128,idiyappam,82,47,108,65
+125_Idiyappam.jpg,128,128,idiyappam,55,54,89,73
+125_Idiyappam.jpg,128,128,idiyappam,32,53,60,72
+125_Idiyappam.jpg,128,128,idiyappam,38,40,67,60
+125_Idiyappam.jpg,128,128,idiyappam,61,36,92,54
+125_pepperoni pizza.jpg,128,128,pepperonipizza,1,31,127,102
+126_Bonda.jpg,128,128,bonda,35,7,50,22
+126_Bonda.jpg,128,128,bonda,53,3,65,17
+126_Bonda.jpg,128,128,bonda,36,30,54,46
+126_Bonda.jpg,128,128,bonda,62,32,76,50
+126_Bonda.jpg,128,128,bonda,86,15,101,32
+126_Bonda.jpg,128,128,bonda,71,4,83,25
+126_Bonda.jpg,128,128,bonda,30,49,48,72
+126_Bonda.jpg,128,128,bonda,16,38,33,56
+126_Bonda.jpg,128,128,bonda,58,66,79,89
+126_Bonda.jpg,128,128,bonda,33,77,53,100
+126_Bonda.jpg,128,128,bonda,45,94,67,112
+126_Bonda.jpg,128,128,bonda,65,100,83,122
+126_Bonda.jpg,128,128,bonda,90,74,106,94
+126_Bonda.jpg,128,128,bonda,72,49,92,68
+126_Bonda.jpg,128,128,bonda,16,81,27,100
+126_Bonda.jpg,128,128,bonda,88,33,108,52
+126_Bonda.jpg,128,128,bonda,97,57,112,76
+126_cutlet.jpg,128,128,cutlet,12,17,41,90
+126_cutlet.jpg,128,128,cutlet,30,20,97,95
+126_Idiyappam.jpg,128,128,idiyappam,41,63,73,89
+126_Idiyappam.jpg,128,128,idiyappam,69,53,110,86
+126_Idiyappam.jpg,128,128,idiyappam,8,56,44,81
+126_Idiyappam.jpg,128,128,idiyappam,41,46,72,65
+126_pepperoni pizza.jpg,128,128,pepperonipizza,4,34,125,95
+127_Bonda.jpg,128,128,bonda,16,20,34,37
+127_Bonda.jpg,128,128,bonda,41,21,59,38
+127_Bonda.jpg,128,128,bonda,61,36,78,50
+127_Bonda.jpg,128,128,bonda,66,10,79,24
+127_Bonda.jpg,128,128,bonda,50,1,70,11
+127_Bonda.jpg,128,128,bonda,71,1,86,11
+127_Bonda.jpg,128,128,bonda,91,5,106,21
+127_Bonda.jpg,128,128,bonda,88,49,107,68
+127_Bonda.jpg,128,128,bonda,38,68,61,87
+127_Bonda.jpg,128,128,bonda,63,57,80,76
+127_Bonda.jpg,128,128,bonda,84,76,104,92
+127_Bonda.jpg,128,128,bonda,30,100,51,116
+127_Bonda.jpg,128,128,bonda,17,53,33,66
+127_Bonda.jpg,128,128,bonda,67,86,82,103
+127_Bonda.jpg,128,128,bonda,94,25,114,45
+127_Bonda.jpg,128,128,bonda,45,40,59,55
+127_Bonda.jpg,128,128,bonda,17,69,34,86
+127_Bonda.jpg,128,128,bonda,34,51,49,67
+127_Bonda.jpg,128,128,bonda,29,31,45,50
+127_Bonda.jpg,128,128,bonda,99,89,112,108
+127_Bonda.jpg,128,128,bonda,18,6,37,25
+127_Bonda.jpg,128,128,bonda,20,84,43,102
+127_cutlet.jpg,128,128,cutlet,48,52,110,105
+127_cutlet.jpg,128,128,cutlet,25,19,89,65
+127_Idiyappam.jpg,128,128,idiyappam,50,52,113,99
+127_Idiyappam.jpg,128,128,idiyappam,73,32,127,67
+127_pepperoni pizza.jpg,128,128,pepperonipizza,24,19,104,108
+128_Bonda.jpg,128,128,bonda,11,63,29,84
+128_Bonda.jpg,128,128,bonda,25,68,48,89
+128_Bonda.jpg,128,128,bonda,47,67,59,88
+128_Bonda.jpg,128,128,bonda,58,69,78,90
+128_Bonda.jpg,128,128,bonda,5,53,29,67
+128_Bonda.jpg,128,128,bonda,23,36,39,50
+128_Bonda.jpg,128,128,bonda,40,29,57,42
+128_Bonda.jpg,128,128,bonda,39,40,54,53
+128_Bonda.jpg,128,128,bonda,30,49,48,61
+128_Bonda.jpg,128,128,bonda,49,55,65,70
+128_Bonda.jpg,128,128,bonda,64,58,82,73
+128_cutlet.jpg,128,128,cutlet,2,32,86,89
+128_cutlet.jpg,128,128,cutlet,48,62,127,103
+128_Idiyappam.jpg,128,128,idiyappam,34,56,73,94
+128_Idiyappam.jpg,128,128,idiyappam,12,30,45,65
+128_Idiyappam.jpg,128,128,idiyappam,44,27,74,60
+128_pepperoni pizza.jpg,128,128,pepperonipizza,16,25,114,104
+129_Bonda.jpg,128,128,bonda,22,67,54,97
+129_Bonda.jpg,128,128,bonda,65,67,98,96
+129_Bonda.jpg,128,128,bonda,26,42,57,65
+129_Bonda.jpg,128,128,bonda,65,41,96,64
+129_cutlet.jpg,128,128,cutlet,1,31,58,94
+129_cutlet.jpg,128,128,cutlet,52,9,116,70
+129_cutlet.jpg,128,128,cutlet,99,4,128,55
+129_Idiyappam.jpg,128,128,idiyappam,32,73,71,107
+129_Idiyappam.jpg,128,128,idiyappam,74,72,107,102
+129_Idiyappam.jpg,128,128,idiyappam,82,51,120,74
+129_Idiyappam.jpg,128,128,idiyappam,47,45,83,72
+129_Idiyappam.jpg,128,128,idiyappam,14,58,50,86
+129_pepperoni pizza.jpg,128,128,pepperonipizza,4,37,114,90
+130_Bonda.jpg,128,128,bonda,45,68,89,105
+130_Bonda.jpg,128,128,bonda,29,38,75,75
+130_Bonda.jpg,128,128,bonda,37,14,75,45
+130_Bonda.jpg,128,128,bonda,75,15,108,38
+130_cutlet.jpg,128,128,cutlet,68,12,126,72
+130_cutlet.jpg,128,128,cutlet,19,23,93,91
+130_cutlet.jpg,128,128,cutlet,2,32,51,103
+130_Idiyappam.jpg,128,128,idiyappam,15,46,60,89
+130_Idiyappam.jpg,128,128,idiyappam,31,30,89,54
+130_Idiyappam.jpg,128,128,idiyappam,67,42,112,87
+130_pepperoni pizza.jpg,128,128,pepperonipizza,24,15,128,102
+131_Bonda.jpg,128,128,bonda,77,50,93,69
+131_Bonda.jpg,128,128,bonda,30,57,45,73
+131_Bonda.jpg,128,128,bonda,49,55,60,70
+131_Bonda.jpg,128,128,bonda,50,74,63,88
+131_Bonda.jpg,128,128,bonda,39,40,56,50
+131_Bonda.jpg,128,128,bonda,67,76,86,89
+131_Bonda.jpg,128,128,bonda,63,53,75,65
+131_Bonda.jpg,128,128,bonda,61,34,80,45
+131_Bonda.jpg,128,128,bonda,89,71,101,85
+131_cutlet.jpg,128,128,cutlet,25,7,102,91
+131_cutlet.jpg,128,128,cutlet,17,47,58,126
+131_Idiyappam.jpg,128,128,idiyappam,1,74,42,120
+131_Idiyappam.jpg,128,128,idiyappam,14,34,59,84
+131_Idiyappam.jpg,128,128,idiyappam,59,5,118,56
+131_Idiyappam.jpg,128,128,idiyappam,69,55,128,99
+131_Idiyappam.jpg,128,128,idiyappam,44,88,93,128
+132_Bonda.jpg,128,128,bonda,88,63,110,87
+132_Bonda.jpg,128,128,bonda,37,62,62,85
+132_Bonda.jpg,128,128,bonda,28,44,48,63
+132_Bonda.jpg,128,128,bonda,37,29,60,47
+132_Bonda.jpg,128,128,bonda,59,36,81,53
+132_Bonda.jpg,128,128,bonda,48,49,67,62
+132_Bonda.jpg,128,128,bonda,80,36,100,54
+132_Bonda.jpg,128,128,bonda,74,51,98,67
+132_Bonda.jpg,128,128,bonda,64,60,85,86
+132_cutlet.jpg,128,128,cutlet,9,33,124,91
+133_Bonda.jpg,128,128,bonda,51,68,71,89
+133_Bonda.jpg,128,128,bonda,74,58,97,79
+133_Bonda.jpg,128,128,bonda,73,33,101,55
+133_Bonda.jpg,128,128,bonda,51,44,73,63
+133_Bonda.jpg,128,128,bonda,28,53,53,80
+133_Bonda.jpg,128,128,bonda,29,36,54,56
+133_Bonda.jpg,128,128,bonda,47,28,72,44
+133_cutlet.jpg,128,128,cutlet,54,54,113,98
+133_cutlet.jpg,128,128,cutlet,1,31,64,67
+133_cutlet.jpg,128,128,cutlet,1,77,54,103
+134_Bonda.jpg,128,128,bonda,12,42,66,86
+134_Bonda.jpg,128,128,bonda,69,29,120,72
+134_cutlet.jpg,128,128,cutlet,45,2,127,64
+134_cutlet.jpg,128,128,cutlet,32,72,124,128
+134_cutlet.jpg,128,128,cutlet,9,35,56,79
+134_cutlet.jpg,128,128,cutlet,9,1,57,32
+134_cutlet.jpg,128,128,cutlet,2,79,30,128
+135_Bonda.jpg,128,128,bonda,1,61,45,92
+135_Bonda.jpg,128,128,bonda,48,63,90,98
+135_Bonda.jpg,128,128,bonda,95,52,128,89
+135_Bonda.jpg,128,128,bonda,15,22,51,55
+135_Bonda.jpg,128,128,bonda,60,24,92,59
+135_cutlet.jpg,128,128,cutlet,9,23,68,51
+135_cutlet.jpg,128,128,cutlet,71,17,128,45
+135_cutlet.jpg,128,128,cutlet,35,45,102,71
+136_cutlet.jpg,128,128,cutlet,17,17,94,87
+136_cutlet.jpg,128,128,cutlet,73,1,119,33
+137_cutlet.jpg,128,128,cutlet,5,75,58,128
+137_cutlet.jpg,128,128,cutlet,67,45,119,105
+137_cutlet.jpg,128,128,cutlet,13,12,93,58
+138_cutlet.jpg,128,128,cutlet,8,12,113,102
+139_cutlet.jpg,128,128,cutlet,33,58,106,118
+139_cutlet.jpg,128,128,cutlet,34,21,106,75
+139_cutlet.jpg,128,128,cutlet,30,5,94,52
+140_cutlet.jpg,128,128,cutlet,38,85,97,101
+140_cutlet.jpg,128,128,cutlet,30,48,104,102
+140_cutlet.jpg,128,128,cutlet,22,32,91,86
+141_briyani.jpg,128,128,briyani,1,16,127,109
+141_cutlet.jpg,128,128,cutlet,1,34,57,99
+141_cutlet.jpg,128,128,cutlet,63,29,128,97
+142_briyani.jpg,128,128,briyani,25,28,105,101
+142_cutlet.jpg,128,128,cutlet,16,17,122,109
+143_briyani.jpg,128,128,briyani,25,33,110,86
+143_cutlet.png,204,180,cutlet,39,48,137,133
+143_cutlet.png,204,180,cutlet,139,79,200,160
+143_cutlet.png,204,180,cutlet,104,22,171,80
+143_cutlet.png,204,180,cutlet,26,24,105,75
+143_cutlet.png,204,180,cutlet,1,70,39,160
+143_cutlet.png,204,180,cutlet,15,141,117,180
+144_briyani.jpg,128,128,briyani,25,38,99,91
+144_cutlet.png,199,153,cutlet,3,48,93,124
+144_cutlet.png,199,153,cutlet,101,12,196,108
+144_cutlet.png,199,153,cutlet,70,104,171,151
+144_cutlet.png,199,153,cutlet,20,10,91,52
+145_briyani.jpg,128,128,briyani,74,52,127,114
+146_briyani.jpg,128,128,briyani,20,28,83,89
+147_briyani.jpg,128,128,briyani,14,31,63,77
+148_briyani.jpg,128,128,briyani,42,40,87,87
+149_briyani.jpg,128,128,briyani,36,35,89,84
+150_briyani.jpg,128,128,briyani,31,27,121,104
+151_briyani.jpg,128,128,briyani,15,46,100,80
+151_briyani.jpg,128,128,briyani,65,20,122,37
+152_briyani.jpg,128,128,briyani,64,26,128,85
+152_poori.jpg,128,128,poori,62,35,113,77
+152_poori.jpg,128,128,poori,34,38,75,78
+152_poori.jpg,128,128,poori,20,43,64,83
+153_briyani.jpg,128,128,briyani,59,24,122,75
+153_poori.jpg,128,128,poori,23,49,98,117
+153_poori.jpg,128,128,poori,32,18,98,71
+153_poori.jpg,128,128,poori,47,2,100,51
+153_poori.jpg,128,128,poori,16,33,44,101
+154_briyani.jpg,128,128,briyani,5,53,105,103
+154_poori.jpg,128,128,poori,33,42,69,77
+154_poori.jpg,128,128,poori,50,23,87,57
+154_poori.jpg,128,128,poori,83,22,112,62
+154_poori.jpg,128,128,poori,56,50,87,85
+154_poori.jpg,128,128,poori,67,63,104,100
+154_poori.jpg,128,128,poori,99,41,124,81
+155_briyani.jpg,128,128,briyani,12,27,111,92
+155_poori.jpg,128,128,poori,6,35,48,79
+155_poori.jpg,128,128,poori,33,17,72,53
+155_poori.jpg,128,128,poori,68,13,105,65
+155_poori.jpg,128,128,poori,32,51,72,91
+155_poori.jpg,128,128,poori,49,65,96,102
+155_poori.jpg,128,128,poori,84,40,121,87
+156_briyani.jpg,128,128,briyani,12,60,71,97
+156_briyani.jpg,128,128,briyani,86,57,128,107
+156_briyani.jpg,128,128,briyani,22,27,72,57
+156_briyani.jpg,128,128,briyani,74,21,128,56
+156_poori.jpg,128,128,poori,12,39,63,91
+156_poori.jpg,128,128,poori,38,16,93,60
+156_poori.jpg,128,128,poori,85,15,127,71
+156_poori.jpg,128,128,poori,46,53,94,102
+157_briyani.jpg,128,128,briyani,13,37,74,76
+157_poori.jpg,128,128,poori,40,61,75,95
+157_poori.jpg,128,128,poori,22,44,55,80
+157_poori.jpg,128,128,poori,52,41,81,74
+157_poori.jpg,128,128,poori,62,25,99,64
+157_poori.jpg,128,128,poori,21,19,62,53
+157_poori.jpg,128,128,poori,42,7,79,29
+158_briyani.jpg,128,128,briyani,16,38,74,74
+158_poori.jpg,128,128,poori,33,72,78,116
+158_poori.jpg,128,128,poori,17,51,52,101
+158_poori.jpg,128,128,poori,47,49,88,89
+158_poori.jpg,128,128,poori,61,27,102,76
+158_poori.jpg,128,128,poori,16,19,59,66
+158_poori.jpg,128,128,poori,35,3,83,39
+159_briyani.jpg,128,128,briyani,40,46,101,85
+159_poori.jpg,128,128,poori,37,42,99,92
+159_poori.jpg,128,128,poori,54,25,108,70
+159_poori.jpg,128,128,poori,74,17,128,59
+159_poori.jpg,128,128,poori,4,28,54,81
+160_briyani.jpg,128,128,briyani,19,39,66,89
+160_poori.jpg,128,128,poori,42,41,99,95
+160_poori.jpg,128,128,poori,16,40,56,95
+160_poori.jpg,128,128,poori,32,19,83,52
+160_poori.jpg,128,128,poori,31,7,89,44
+161_briyani.jpg,128,128,briyani,23,36,104,84
+161_poori.jpg,128,128,poori,47,31,126,94
+161_poori.jpg,128,128,poori,2,32,63,93
+162_briyani.jpg,128,128,briyani,18,45,85,105
+162_poori.jpg,128,128,poori,29,46,91,82
+162_poori.jpg,128,128,poori,64,23,113,48
+162_poori.jpg,128,128,poori,60,52,122,87
+162_poori.jpg,128,128,poori,31,26,65,48
+163_briyani.jpg,128,128,briyani,16,51,85,98
+163_poori.jpg,128,128,poori,82,38,113,73
+163_poori.jpg,128,128,poori,54,48,82,76
+163_poori.jpg,128,128,poori,29,51,53,80
+163_poori.jpg,128,128,poori,38,31,61,55
+163_poori.jpg,128,128,poori,60,34,87,51
+163_poori.jpg,128,128,poori,64,70,91,88
+163_poori.jpg,128,128,poori,44,73,65,92
+164_briyani.jpg,128,128,briyani,27,42,84,96
+164_poori.jpg,128,128,poori,96,39,126,60
+164_poori.jpg,128,128,poori,82,57,115,80
+164_poori.jpg,128,128,poori,33,53,81,92
+164_poori.jpg,128,128,poori,74,44,97,58
+164_poori.jpg,128,128,poori,97,21,128,44
+165_briyani.jpg,128,128,briyani,42,43,124,99
+165_poori.jpg,128,128,poori,83,63,103,86
+165_poori.jpg,128,128,poori,49,63,67,79
+165_poori.jpg,128,128,poori,67,64,83,82
+165_poori.jpg,128,128,poori,49,77,70,99
+165_poori.jpg,128,128,poori,71,80,89,97
+165_poori.jpg,128,128,poori,31,70,53,92
+166_briyani.jpg,128,128,briyani,46,52,109,114
+166_poori.jpg,128,128,poori,56,69,69,84
+166_poori.jpg,128,128,poori,64,62,78,75
+166_poori.jpg,128,128,poori,77,65,90,79
+166_poori.jpg,128,128,poori,58,82,72,92
+166_poori.jpg,128,128,poori,42,68,54,81
+166_poori.jpg,128,128,poori,50,60,62,72
+166_poori.jpg,128,128,poori,59,52,71,62
+167_briyani.jpg,128,128,briyani,59,40,113,79
+167_poori.jpg,128,128,poori,62,10,117,54
+167_poori.jpg,128,128,poori,35,39,82,84
+167_poori.jpg,128,128,poori,8,5,61,49
+168_briyani.jpg,128,128,briyani,52,43,89,77
+168_poori.jpg,128,128,poori,32,40,101,97
+169_briyani.jpg,128,128,briyani,55,43,104,85
+169_poori.jpg,128,128,poori,22,33,91,97
+169_poori.jpg,128,128,poori,78,31,106,72
+170_briyani.jpg,128,128,briyani,1,20,128,99
+171_briyani.jpg,128,128,briyani,26,23,83,63
+172_briyani.jpg,128,128,briyani,18,20,64,54
+173_briyani.jpg,128,128,briyani,22,31,78,62
+174_briyani.jpg,128,128,briyani,30,39,83,65
+175_briyani.jpg,128,128,briyani,30,18,91,92
+176_briyani.jpg,128,128,briyani,39,30,95,84
+177_briyani.jpg,128,128,briyani,57,1,107,88
+178_briyani.jpg,128,128,briyani,46,23,121,71
+179_briyani.jpg,128,128,briyani,32,36,104,81
+180_briyani.jpg,128,128,briyani,17,41,121,95
+181_briyani.jpg,128,128,briyani,8,47,128,95
+182_briyani.jpg,128,128,briyani,39,42,96,81
+183_briyani.jpg,128,128,briyani,30,48,73,76
+184_briyani.jpg,128,128,briyani,42,39,89,84
+185_briyani.jpg,128,128,briyani,32,30,93,100
+186_briyani.jpg,128,128,briyani,28,43,69,86
+187_briyani.jpg,128,128,briyani,36,42,93,90
+188_briyani.jpg,128,128,briyani,48,46,98,75
+189_briyani.jpg,128,128,briyani,38,46,83,86
+190_briyani.jpg,128,128,briyani,50,48,89,74
+191_briyani.jpg,128,128,briyani,42,67,87,87
+192_briyani.jpg,128,128,briyani,28,36,92,103
+193_briyani.jpg,128,128,briyani,35,38,104,88
+194_briyani.jpg,128,128,briyani,29,37,100,69
+195_briyani.jpg,128,128,briyani,25,36,110,70
+199_dosa.jpg,128,128,dosa,1,1,128,61
+200_dosa.jpg,128,128,dosa,4,25,128,96
+201_dosa.jpg,128,128,dosa,34,32,105,95
+202_dosa.jpg,128,128,dosa,15,29,110,96
+203_dosa.jpg,128,128,dosa,18,39,108,101
+204_dosa.jpg,128,128,dosa,14,26,77,77
+204_Idly.jpg,128,128,idly,4,56,45,101
+204_Idly.jpg,128,128,idly,37,68,80,117
+204_Idly.jpg,128,128,idly,29,36,72,73
+205_dosa.jpg,128,128,dosa,22,31,102,93
+205_Idly.jpg,128,128,idly,58,51,90,84
+205_Idly.jpg,128,128,idly,75,37,100,55
+206_dosa.jpg,128,128,dosa,22,57,84,112
+206_dosa.jpg,128,128,dosa,59,16,128,63
+206_Idly.jpg,128,128,idly,4,22,45,33
+206_Idly.jpg,128,128,idly,6,31,45,56
+206_Idly.jpg,128,128,idly,18,32,108,97
+207_dosa.jpg,128,128,dosa,18,39,121,95
+207_Idly.jpg,128,128,idly,26,1,91,69
+207_Idly.jpg,128,128,idly,39,42,105,109
+207_Idly.jpg,128,128,idly,78,58,108,126
+208_dosa.jpg,128,128,dosa,1,35,118,94
+208_Idly.jpg,128,128,idly,45,32,114,105
+208_Idly.jpg,128,128,idly,86,17,128,60
+208_Idly.jpg,128,128,idly,5,22,68,88
+209_dosa.jpg,128,128,dosa,27,38,106,87
+209_Idly.jpg,128,128,idly,58,29,94,68
+209_Idly.jpg,128,128,idly,31,54,82,103
+209_Idly.jpg,128,128,idly,54,72,99,121
+209_Idly.jpg,128,128,idly,89,74,108,122
+209_Idly.jpg,128,128,idly,89,29,107,68
+210_dosa.jpg,128,128,dosa,41,41,128,89
+210_Idly.jpg,128,128,idly,21,26,77,78
+210_Idly.jpg,128,128,idly,35,50,87,96
+210_Idly.jpg,128,128,idly,79,48,127,94
+211_dosa.jpg,128,128,dosa,36,38,106,71
+211_Idly.jpg,128,128,idly,71,29,108,58
+212_dosa.jpg,128,128,dosa,23,57,88,122
+212_Idly.jpg,128,128,idly,74,50,120,82
+212_Idly.jpg,128,128,idly,52,53,91,88
+213_dosa.jpg,128,128,dosa,22,17,94,87
+213_dosa.jpg,128,128,dosa,62,9,105,69
+213_Idly.jpg,128,128,idly,64,31,121,86
+213_Idly.jpg,128,128,idly,40,43,98,99
+214_dosa.jpg,128,128,dosa,11,32,110,80
+214_Idly.jpg,128,128,idly,61,53,90,71
+214_Idly.jpg,128,128,idly,58,68,91,101
+214_Idly.jpg,128,128,idly,34,66,63,96
+215_dosa.jpg,128,128,dosa,60,47,99,94
+215_Idly.jpg,128,128,idly,70,46,106,67
+215_Idly.jpg,128,128,idly,63,56,95,80
+215_Idly.jpg,128,128,idly,31,59,71,78
+216_dosa.jpg,128,128,dosa,3,15,125,106
+216_Idly.jpg,128,128,idly,65,37,128,97
+216_Idly.jpg,128,128,idly,5,34,63,97
+217_dosa.jpg,128,128,dosa,12,7,91,49
+217_dosa.jpg,128,128,dosa,37,8,84,85
+218_dosa.jpg,128,128,dosa,12,4,102,123
+219_dosa.jpg,128,128,dosa,28,21,105,91
+219_Idly.jpg,128,128,idly,15,48,42,79
+219_Idly.jpg,128,128,idly,39,46,62,79
+219_Idly.jpg,128,128,idly,54,44,78,72
+219_Idly.jpg,128,128,idly,62,37,81,65
+219_Idly.jpg,128,128,idly,30,31,59,45
+220_dosa.jpg,128,128,dosa,16,22,110,100
+220_Idly.jpg,128,128,idly,49,46,92,78
+220_Idly.jpg,128,128,idly,15,67,61,92
+220_Idly.jpg,128,128,idly,14,45,50,67
+221_dosa.jpg,128,128,dosa,18,59,111,115
+221_dosa.jpg,128,128,dosa,19,36,110,80
+221_Idly.jpg,128,128,idly,58,35,85,56
+221_Idly.jpg,128,128,idly,33,42,62,56
+221_Idly.jpg,128,128,idly,38,30,60,43
+222_dosa.jpg,128,128,dosa,31,43,85,85
+222_Idly.jpg,128,128,idly,54,79,84,111
+222_Idly.jpg,128,128,idly,75,72,99,102
+222_Idly.jpg,128,128,idly,53,64,79,82
+222_Idly.jpg,128,128,idly,29,75,60,101
+223_dosa.jpg,128,128,dosa,24,38,104,114
+223_Idly.jpg,128,128,idly,7,46,41,81
+223_Idly.jpg,128,128,idly,48,44,78,79
+223_Idly.jpg,128,128,idly,85,48,117,82
+224_dosa.jpg,128,128,dosa,10,26,119,108
+224_Idly.jpg,128,128,idly,33,59,75,99
+224_Idly.jpg,128,128,idly,65,55,96,90
+224_Idly.jpg,128,128,idly,7,60,37,91
+225_dosa.jpg,128,128,dosa,24,28,99,98
+225_Idly.jpg,128,128,idly,48,62,79,97
+225_Idly.jpg,128,128,idly,29,58,57,90
+226_dosa.jpg,128,128,dosa,22,45,66,109
+226_dosa.jpg,128,128,dosa,43,33,106,103
+227_dosa.jpg,128,128,dosa,10,18,82,85
+228_dosa.jpg,128,128,dosa,10,38,128,87
+229_dosa.jpg,128,128,dosa,17,10,99,107
+230_dosa.jpg,128,128,dosa,1,55,38,89
+230_dosa.jpg,128,128,dosa,44,57,86,90
+230_dosa.jpg,128,128,dosa,89,55,126,89
+230_dosa.jpg,128,128,dosa,89,22,127,54
+230_dosa.jpg,128,128,dosa,43,24,84,54
+231_dosa.jpg,128,128,dosa,1,29,114,93
+232_dosa.jpg,128,128,dosa,17,44,113,115
+233_dosa.jpg,128,128,dosa,15,34,116,117
+234_dosa.jpg,128,128,dosa,15,39,56,104
+234_dosa.jpg,128,128,dosa,47,45,114,102
+235_dosa.jpg,128,128,dosa,64,72,110,104
+235_dosa.jpg,128,128,dosa,23,61,72,100
+235_dosa.jpg,128,128,dosa,20,30,59,65
+236_dosa.jpg,128,128,dosa,31,42,106,115
+237_dosa.jpg,128,128,dosa,31,42,99,87
+238_dosa.jpg,128,128,dosa,18,30,78,116
+239_dosa.jpg,128,128,dosa,40,28,126,97
+240_dosa.jpg,128,128,dosa,11,22,128,90
+241_dosa.jpg,128,128,dosa,10,30,118,97
+242_dosa.jpg,128,128,dosa,1,51,128,82
+243_dosa.jpg,128,128,dosa,24,72,60,101
+243_dosa.jpg,128,128,dosa,70,70,107,100
+243_dosa.jpg,128,128,dosa,93,34,115,63
+243_dosa.jpg,128,128,dosa,7,38,42,70
+243_dosa.jpg,128,128,dosa,47,23,71,35
+244_dosa.jpg,128,128,dosa,16,64,62,97
+244_dosa.jpg,128,128,dosa,71,63,122,89
+244_dosa.jpg,128,128,dosa,102,28,128,56
+244_dosa.jpg,128,128,dosa,1,26,43,62
+245_dosa.jpg,128,128,dosa,29,29,124,76
+246_dosa.jpg,128,128,dosa,6,29,81,94
+247_dosa.jpg,128,128,dosa,10,28,65,98
+248_dosa.jpg,128,128,dosa,21,44,88,92
+249_dosa.jpg,128,128,dosa,19,59,114,103
+250_dosa.jpg,128,128,dosa,41,34,102,86
+251_dosa.jpg,128,128,dosa,1,47,39,74
+251_dosa.jpg,128,128,dosa,43,45,88,76
+251_dosa.jpg,128,128,dosa,91,44,126,80
+252_dosa.jpg,128,128,dosa,4,26,128,95
+253_dosa.jpg,128,128,dosa,40,28,91,94
+253_dosa.jpg,128,128,dosa,1,47,104,94
+254_dosa.jpg,128,128,dosa,21,27,113,118
+255_dosa.jpg,128,128,dosa,25,25,78,72
+256_dosa.jpg,128,128,dosa,3,28,123,105
+257_dosa.jpg,128,128,dosa,21,58,106,107
+258_dosa.jpg,128,128,dosa,22,37,109,110
+259_dosa.jpg,128,128,dosa,44,5,124,119
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,1,93,37,112
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,46,74,76,110
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,82,72,114,100
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,88,22,105,66
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,2,44,43,64
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,45,30,83,64
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,20,60,55,87
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,19,21,54,44
+81_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,58,15,90,36
+81_parota.jpg,128,128,parota,8,32,103,93
+81_VENPONGAL.jpg,128,128,venpongal,47,49,75,74
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,53,1,76,60
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,80,12,107,57
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,77,57,128,91
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,67,77,114,116
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,19,71,64,110
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,8,53,44,94
+82_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,16,15,51,60
+82_parota.jpg,128,128,parota,17,32,103,94
+82_VENPONGAL.jpg,128,128,venpongal,15,55,81,79
+83_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,66,64,86,97
+83_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,86,47,117,69
+83_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,49,30,72,44
+83_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,78,32,109,49
+83_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,17,31,48,55
+83_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,12,55,52,81
+83_parota.jpg,128,128,parota,8,35,126,88
+83_VENPONGAL.jpg,128,128,venpongal,23,23,104,111
+84_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,19,15,51,72
+84_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,42,14,73,83
+84_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,75,17,128,98
+84_parota.jpg,128,128,parota,20,33,120,97
+84_VENPONGAL.jpg,128,128,venpongal,43,50,77,82
+85_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,48,25,80,106
+85_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,65,20,96,75
+85_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,28,29,54,86
+85_parota.jpg,128,128,parota,1,20,117,108
+85_VENPONGAL.jpg,128,128,venpongal,34,64,95,121
+86_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,41,59,64,89
+86_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,64,64,102,96
+86_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,76,54,128,72
+86_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,59,36,102,55
+86_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,29,31,60,53
+86_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,8,39,46,71
+86_parota.jpg,128,128,parota,6,21,123,104
+86_VENPONGAL.jpg,128,128,venpongal,42,59,90,91
+87_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,2,25,61,102
+87_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,75,2,127,106
+87_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,20,1,61,50
+87_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,57,40,76,81
+87_parota.jpg,128,128,parota,61,21,128,83
+87_parota.jpg,128,128,parota,10,20,111,106
+87_VENPONGAL.jpg,128,128,venpongal,38,47,103,98
+88_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,56,49,124,91
+88_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,11,29,57,83
+88_parota.jpg,128,128,parota,21,8,117,100
+88_VENPONGAL.jpg,128,128,venpongal,7,26,118,96
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,42,59,79,103
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,8,42,28,78
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,42,24,59,59
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,18,31,47,81
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,58,28,92,52
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,77,39,118,76
+89_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,70,70,99,100
+89_parota.jpg,128,128,parota,7,15,112,81
+89_parota.jpg,128,128,parota,9,76,121,113
+89_VENPONGAL.jpg,128,128,venpongal,21,50,88,85
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,59,87,82,121
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,31,88,59,123
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,2,56,42,76
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,9,73,46,95
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,74,80,102,121
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,85,67,120,100
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,90,42,126,68
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,79,29,107,49
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,71,8,108,34
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,49,1,72,37
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,17,5,50,43
+90_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,1,32,41,54
+90_parota.jpg,128,128,parota,19,33,81,82
+90_parota.jpg,128,128,parota,59,37,121,90
+90_VENPONGAL.jpg,128,128,venpongal,33,47,99,100
+91_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,39,31,96,93
+91_parota.jpg,128,128,parota,17,18,99,83
+91_parota.jpg,128,128,parota,40,47,112,109
+91_parota.jpg,128,128,parota,7,56,53,106
+91_samosa.jpg,128,128,samosa,47,67,82,97
+91_samosa.jpg,128,128,samosa,81,45,109,81
+91_samosa.jpg,128,128,samosa,46,26,79,54
+91_seer fish.jpg,128,128,seerfish,11,34,117,96
+91_VENPONGAL.jpg,128,128,venpongal,5,19,116,106
+92_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,1,65,84,97
+92_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,31,39,74,67
+92_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,63,27,101,51
+92_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,71,55,108,84
+92_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,96,41,128,71
+92_parota.jpg,128,128,parota,1,20,95,97
+92_samosa.jpg,128,128,samosa,68,37,108,88
+92_samosa.jpg,128,128,samosa,21,38,62,88
+92_seer fish.jpg,128,128,seerfish,5,27,68,84
+92_seer fish.jpg,128,128,seerfish,54,43,118,99
+92_VENPONGAL.jpg,128,128,venpongal,34,56,96,103
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,83,54,126,75
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,71,75,101,101
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,77,22,113,48
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,11,25,51,48
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,6,56,43,77
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,29,72,53,104
+93_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,52,79,74,111
+93_parota.jpg,128,128,parota,2,26,128,127
+93_samosa.jpg,128,128,samosa,72,26,123,104
+93_samosa.jpg,128,128,samosa,3,23,59,105
+93_seer fish.jpg,128,128,seerfish,4,46,80,107
+93_seer fish.jpg,128,128,seerfish,43,36,118,86
+93_VENPONGAL.jpg,128,128,venpongal,39,56,90,91
+94_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,53,72,79,127
+94_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,74,52,128,99
+94_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,3,50,54,94
+94_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,26,6,59,54
+94_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,62,1,112,50
+94_parota.jpg,128,128,parota,35,46,124,106
+94_samosa.jpg,128,128,samosa,14,46,87,101
+94_samosa.jpg,128,128,samosa,25,26,59,69
+94_seer fish.jpg,128,128,seerfish,4,49,38,110
+94_seer fish.jpg,128,128,seerfish,39,70,77,110
+94_seer fish.jpg,128,128,seerfish,75,68,116,109
+94_seer fish.jpg,128,128,seerfish,75,33,112,77
+94_seer fish.jpg,128,128,seerfish,34,38,80,79
+94_seer fish.jpg,128,128,seerfish,5,18,57,55
+94_seer fish.jpg,128,128,seerfish,55,16,103,43
+94_VENPONGAL.jpg,128,128,venpongal,23,54,68,87
+95_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,15,71,56,108
+95_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,76,64,121,101
+95_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,79,35,121,56
+95_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,34,20,68,45
+95_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,1,47,40,71
+95_parota.jpg,128,128,parota,36,51,92,93
+95_samosa.jpg,128,128,samosa,9,49,111,128
+95_samosa.jpg,128,128,samosa,11,12,61,95
+95_samosa.jpg,128,128,samosa,53,1,105,61
+95_samosa.jpg,128,128,samosa,86,36,128,106
+95_seer fish.jpg,128,128,seerfish,3,43,118,89
+95_VENPONGAL.jpg,128,128,venpongal,30,44,105,91
+96_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,74,81,92,124
+96_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,50,81,73,124
+96_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,5,57,57,90
+96_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,33,16,57,49
+96_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,53,5,75,39
+96_parota.jpg,128,128,parota,41,35,117,83
+96_parota.jpg,128,128,parota,12,42,67,89
+96_samosa.jpg,128,128,samosa,2,43,40,88
+96_samosa.jpg,128,128,samosa,28,23,54,59
+96_samosa.jpg,128,128,samosa,104,37,128,79
+96_seer fish.jpg,128,128,seerfish,12,55,96,101
+96_seer fish.jpg,128,128,seerfish,53,37,126,73
+96_VENPONGAL.jpg,128,128,venpongal,55,63,98,105
+96_VENPONGAL.jpg,128,128,venpongal,1,18,28,57
+97_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,21,61,47,103
+97_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,44,62,76,104
+97_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,76,62,108,102
+97_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,78,25,105,63
+97_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,53,24,76,63
+97_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,24,21,52,62
+97_parota.jpg,128,128,parota,29,43,115,105
+97_parota.jpg,128,128,parota,1,46,51,103
+97_samosa.jpg,128,128,samosa,6,18,72,70
+97_samosa.jpg,128,128,samosa,63,16,122,84
+97_seer fish.jpg,128,128,seerfish,40,17,109,67
+97_seer fish.jpg,128,128,seerfish,1,47,74,97
+97_seer fish.jpg,128,128,seerfish,77,44,128,98
+97_VENPONGAL.jpg,128,128,venpongal,9,17,123,113
+98_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,5,16,41,102
+98_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,45,17,80,97
+98_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,83,18,114,103
+98_parota.jpg,128,128,parota,17,30,118,98
+98_samosa.jpg,128,128,samosa,16,41,76,99
+98_samosa.jpg,128,128,samosa,83,43,115,91
+98_seer fish.jpg,128,128,seerfish,52,21,126,61
+98_seer fish.jpg,128,128,seerfish,13,31,61,83
+98_seer fish.jpg,128,128,seerfish,42,59,122,112
+98_VENPONGAL.jpg,128,128,venpongal,42,61,97,107
+99_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,25,45,64,109
+99_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,70,38,96,112
+99_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,102,22,128,99
+99_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,1,36,29,93
+99_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,35,16,67,51
+99_CHICKEN LOLLIPOP.jpg,128,128,chicken_lollipop,69,15,91,52
+99_parota.jpg,128,128,parota,20,53,109,128
+99_samosa.jpg,128,128,samosa,57,42,110,108
+99_samosa.jpg,128,128,samosa,93,38,128,94
+99_samosa.jpg,128,128,samosa,1,41,41,94
+99_samosa.jpg,128,128,samosa,29,25,61,64
+99_seer fish.jpg,128,128,seerfish,32,35,120,95
+99_VENPONGAL.jpg,128,128,venpongal,14,30,109,91
