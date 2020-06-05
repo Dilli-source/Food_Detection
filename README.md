@@ -223,9 +223,10 @@ I am going to go with mobilenet, using the following checkpoint and configuratio
 •	Take the final steps only if it has all three files in the model after training
 
 •	If you get an error about no module named 'nets', then you need to re run:
-    # From tensorflow/models/
-         export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
-    # switch back to object_detection after this and re run the above command
+      
+      # From tensorflow/models/
+        export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim
+      # switch back to object_detection after this and re run the above command
 
 •	This will create a .pb file (i.e a frozen model)
 
