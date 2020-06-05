@@ -19,9 +19,9 @@ Identifying the Food Items using Tensorflow and Opencv
      •	Collect Images that are required to be identified.
      
     Step 2: Labelling the image
-     •	For this, I am going to use LabelImg, you can grab it with git clone https://github.com/Dilli-source/labelImg.git, or just          download and extract the zip.
+     •	For this, I am going to use LabelImg, you can grab it with git clone https://github.com/tzutalin/labelImg, or just          download and extract the zip.
      
-   Installation instructions are on the [labelimg github]( https://github.com/Dilli-source/labelImg.git), but for Python3 on Ubuntu:
+   Installation instructions are on the [labelimg github]( https://github.com/tzutalin/labelImg), but for Python3 on Ubuntu:
    
      •	sudo apt-get install pyqt5-dev-tools
      •	sudo pip3 install lxml
@@ -37,7 +37,7 @@ Identifying the Food Items using Tensorflow and Opencv
    
    From here, choose to open dir and pick the directory that you saved all of your images to. Now, you can begin to annotate with the create rectbox button. Draw your box, add the name in, and hit ok. Save, hit next image, and repeat! You can press the w key to draw the box and do ctrl+s to save faster. Not sure if there's a shortcut for the next image.
    
-   note: Instructions for creating Bounding Box is available in [labelimg github]( https://github.com/Dilli-source/labelImg.git)
+   note: Instructions for creating Bounding Box is available in [labelimg github]( https://github.com/tzutalin/labelImg)
    
    Once you have over 100 images labeled, we're going to separate them into training and testing groups. To do this, just copy about 10% of your images and their annotation XML files to a new dir called test and then copy the remaining ones to a new dir called train
    
@@ -139,7 +139,7 @@ Identifying the Food Items using Tensorflow and Opencv
    
    To manually set the paths, go to Go to System -> Advanced system settings -> Environment Variables -> New, and add a variable with the name PYTHONPATH and these values:
    
-   ![alt text](https://github.com/Dilli-source/Food_Detection/blob/master/images/environmental.JPG)
+   ![alt text](https://github.com/Dilli-source/Food_Detection/blob/master/environmental.jpg)
    
    Note: You may have to restart your computer/system for this to take effect.
    
@@ -238,6 +238,7 @@ I am going to go with mobilenet, using the following checkpoint and configuratio
     (note:Please make necessary configuration where the input image directory and where the output image directory )
     
 •	This will Draw a bounding box around the image it got detected.
+
 •	We can also detect from  live streaming video just by using necessary packages from opencv.
 
     
